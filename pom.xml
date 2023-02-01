@@ -6,9 +6,14 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
+ DEVUSA
+<!-- Changes by USA  -->
+		
+</parent>
 <relativePath /> <!-- CHANGES BY DEVINDIA -->
 	
 	</parent>
+master
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>SpringMVCFirstApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
